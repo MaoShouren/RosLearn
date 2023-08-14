@@ -1,0 +1,2 @@
+ros_service
+-DCATKIN_DEVEL_PREFIX=/home/wangchao/code/ROS_learn/ROS_service/devel -DCMAKE_INSTALL_PREFIX=/home/wangchao/code/ROS_learn/ROS_service/install -G Unix Makefiles
